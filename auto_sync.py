@@ -276,7 +276,7 @@ class SyncHandler(FileSystemEventHandler):
         if days:
             day_label = "+".join(sorted(set(days)))
             topics    = " + ".join(
-                SCORECARD.get(d, (f, ""))[0] for d in sorted(set(days))
+                SCORECARD.get(d, ("", ""))[0] for d in sorted(set(days))
             )
             reason = f"{day_label} — {topics}"
         else:
