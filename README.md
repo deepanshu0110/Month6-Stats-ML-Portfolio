@@ -12,7 +12,7 @@
 | Metric | Value |
 |--------|-------|
 | Days Completed | 0 / 31 |
-| Days In Progress | 31 |
+| Days In Progress | 30 |
 | Month 5 Capstone | 120/120 ✅ (UrbanNest India — best score in programme) |
 | Upwork Status | Active — bids submitted Month 5 W4 |
 | IELTS Target | Jun–Aug 2026, score 6.5+ |
@@ -29,7 +29,7 @@
 | Day103 | Chi-Square + ANOVA | — 🔵 |
 | Day104 | A/B Testing with scipy | — 🔵 |
 | Day105 | Week 1 Mini-Project | — 🔵 |
-| Day106 | Hypothesis Testing Deep Dive | — 🔵 |
+| Day106 | Hypothesis Testing Deep Dive | 📤 Pushed |
 | Day107 | Effect Size + Power | — 🔵 |
 | Day108 | Week 2 Mini-Project | — 🔵 |
 | Day109 | Linear Regression Foundations | — 🔵 |
@@ -89,4 +89,4 @@ Month6/
 
 ---
 
-*Auto-synced via watchdog · Last updated: 17 May 2026 16:45*
+*Auto-synced via watchdog · Last updated: 17 May 2026 17:07*
