@@ -12,7 +12,7 @@
 | Metric | Value |
 |--------|-------|
 | Days Completed | 0 / 31 |
-| Days In Progress | 28 |
+| Days In Progress | 27 |
 | Month 5 Capstone | 120/120 ✅ (UrbanNest India — best score in programme) |
 | Upwork Status | Active — bids submitted Month 5 W4 |
 | IELTS Target | Jun–Aug 2026, score 6.5+ |
@@ -35,7 +35,7 @@
 | Day109 | Linear Regression Foundations | 📤 Pushed |
 | Day110 | Train-Test Split + R² + RMSE | 📤 Pushed |
 | Day111 | Feature Selection | 📤 Pushed |
-| Day112 | Overfitting + Regularisation | — 🔵 |
+| Day112 | Overfitting + Regularisation | 📤 Pushed |
 | Day113 | Week 3 Mini-Project | — 🔵 |
 | Day114 | Logistic Regression | — 🔵 |
 | Day115 | Decision Tree | — 🔵 |
@@ -89,4 +89,4 @@ Month6/
 
 ---
 
-*Auto-synced via watchdog · Last updated: 19 May 2026 19:16*
+*Auto-synced via watchdog · Last updated: 19 May 2026 19:53*
