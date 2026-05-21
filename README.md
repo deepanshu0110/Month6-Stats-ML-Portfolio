@@ -3,7 +3,7 @@
 
 > 31-day structured programme: descriptive statistics, probability distributions,
 > hypothesis testing, A/B testing, linear + logistic regression, tree-based models,
-> scikit-learn pipelines, hyperparameter tuning, and e-commerce analytics.
+> scikit-learn pipelines, model evaluation, and domain niche (e-commerce analytics).
 
 ---
 
@@ -11,8 +11,8 @@
 
 | Metric | Value |
 |--------|-------|
-| Days Completed | 15 / 31 |
-| Days In Progress | 1 (Day 116) |
+| Days Completed | 0 / 31 |
+| Days In Progress | 31 |
 | Month 5 Capstone | 120/120 ✅ (UrbanNest India — best score in programme) |
 | Upwork Status | Active — bids submitted Month 5 W4 |
 | IELTS Target | Jun–Aug 2026, score 6.5+ |
@@ -24,37 +24,37 @@
 
 | Day | Topic | Score |
 |-----|-------|-------|
-| Day 101 | Descriptive Stats + Distributions | 80/80 + 10★ ✅ |
-| Day 102 | T-Tests + Confidence Intervals | 80/80 + 10★ ✅ |
-| Day 103 | Chi-Square + ANOVA | 80/80 + 10★ ✅ |
-| Day 104 | A/B Testing with scipy | 80/80 + 10★ ✅ |
-| Day 105 | Week 1 Mini-Project | 80/80 + 10★ ✅ |
-| Day 106 | Hypothesis Testing Deep Dive | 80/80 + 10★ ✅ |
-| Day 107 | Effect Size + Power | 80/80 + 10★ ✅ |
-| Day 108 | Week 2 Mini-Project | 80/80 + 10★ ✅ |
-| Day 109 | Linear Regression Foundations | 80/80 + 10★ ✅ |
-| Day 110 | Train-Test Split + R² + RMSE | 80/80 + 10★ ✅ |
-| Day 111 | Feature Selection | 80/80 + 10★ ✅ |
-| Day 112 | PCA — Principal Component Analysis | 80/80 + 10★ ✅ |
-| Day 113 | Week 3 Mini-Project | 100/100 + 15★ ✅ |
-| Day 114 | Cross-Validation (KFold + StratifiedKFold) | 80/80 + 10★ ✅ |
-| Day 115 | Scikit-learn Pipeline API | 80/80 + 10★ ✅ |
-| Day 116 | GridSearchCV + Hyperparameter Tuning | 🔄 In Progress |
-| Day 117 | — | — 🔵 |
-| Day 118 | — | — 🔵 |
-| Day 119 | — | — 🔵 |
-| Day 120 | — | — 🔵 |
-| Day 121 | — | — 🔵 |
-| Day 122 | — | — 🔵 |
-| Day 123 | — | — 🔵 |
-| Day 124 | — | — 🔵 |
-| Day 125 | — | — 🔵 |
-| Day 126 | — | — 🔵 |
-| Day 127 | — | — 🔵 |
-| Day 128 | — | — 🔵 |
-| Day 129 | — | — 🔵 |
-| Day 130 | — | — 🔵 |
-| Day 131 | Month 6 Capstone — Full ML Pipeline | — 🔵 |
+| Day101 | Descriptive Stats + Distributions | — 🔵 |
+| Day102 | T-Tests + Confidence Intervals | — 🔵 |
+| Day103 | Chi-Square + ANOVA | — 🔵 |
+| Day104 | A/B Testing with scipy | — 🔵 |
+| Day105 | Week 1 Mini-Project | — 🔵 |
+| Day106 | Hypothesis Testing Deep Dive | — 🔵 |
+| Day107 | Effect Size + Power | — 🔵 |
+| Day108 | Week 2 Mini-Project | — 🔵 |
+| Day109 | Linear Regression Foundations | — 🔵 |
+| Day110 | Train-Test Split + R² + RMSE | — 🔵 |
+| Day111 | Feature Selection | — 🔵 |
+| Day112 | Overfitting + Regularisation | — 🔵 |
+| Day113 | Week 3 Mini-Project | — 🔵 |
+| Day114 | Logistic Regression | — 🔵 |
+| Day115 | Decision Tree | — 🔵 |
+| Day116 | Random Forest | — 🔵 |
+| Day117 | Model Comparison | — 🔵 |
+| Day118 | Week 4 Mini-Project | — 🔵 |
+| Day119 | Confusion Matrix + Precision/Recall | — 🔵 |
+| Day120 | ROC-AUC | — 🔵 |
+| Day121 | Cross-Validation | — 🔵 |
+| Day122 | GridSearchCV | — 🔵 |
+| Day123 | Scikit-learn Pipeline | — 🔵 |
+| Day124 | Week 5 Mini-Project | — 🔵 |
+| Day125 | E-commerce KPIs — CAC + LTV + Churn | — 🔵 |
+| Day126 | Model Explainability Intro | — 🔵 |
+| Day127 | SHAP Values | — 🔵 |
+| Day128 | Domain Niche Deep Dive | — 🔵 |
+| Day129 | Week 6 Mini-Project | — 🔵 |
+| Day130 | Portfolio Polish | — 🔵 |
+| Day131 | Month 6 Capstone — Full ML Pipeline | — 🔵 |
 
 ---
 
@@ -70,20 +70,6 @@ Python · NumPy · Pandas · scipy.stats · scikit-learn · Matplotlib · Seabor
 Month6/
 ├── Day101_Statistics_Foundations.ipynb
 ├── Day102_T_Tests_Confidence_Intervals.ipynb
-├── Day103_ChiSquare_ANOVA.ipynb
-├── Day104_AB_Testing_scipy.ipynb
-├── Day105_Week1_MiniProject.ipynb
-├── Day106_Hypothesis_Testing_DeepDive.ipynb
-├── Day107_Effect_Size_Power.ipynb
-├── Day108_Week2_MiniProject.ipynb
-├── Day109_Linear_Regression_Foundations.ipynb
-├── Day110_TrainTest_R2_RMSE.ipynb
-├── Day111_Feature_Selection.ipynb
-├── Day112_PCA.ipynb
-├── Day113_Week3_MiniProject.ipynb
-├── Day114_CrossValidation.ipynb
-├── Day115_PipelineAPI.ipynb
-├── Day116_GridSearchCV_HyperparamTuning.ipynb
 ├── ...
 ├── Day131_Month6_Capstone.ipynb
 └── auto_sync.py
@@ -103,4 +89,4 @@ Month6/
 
 ---
 
-*Auto-synced via watchdog · Last updated: 21 May 2026*
+*Auto-synced via watchdog · Last updated: 21 May 2026 15:57*
