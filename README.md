@@ -12,7 +12,7 @@
 | Metric | Value |
 |--------|-------|
 | Days Completed | 0 / 31 |
-| Days In Progress | 25 |
+| Days In Progress | 31 |
 | Month 5 Capstone | 120/120 ✅ (UrbanNest India — best score in programme) |
 | Upwork Status | Active — bids submitted Month 5 W4 |
 | IELTS Target | Jun–Aug 2026, score 6.5+ |
@@ -24,20 +24,20 @@
 
 | Day | Topic | Score |
 |-----|-------|-------|
-| Day101 | Descriptive Stats + Distributions | 📤 Pushed |
-| Day102 | T-Tests + Confidence Intervals | 📤 Pushed |
-| Day103 | Chi-Square + ANOVA | 📤 Pushed |
-| Day104 | A/B Testing with scipy | 📤 Pushed |
-| Day105 | Week 1 Mini-Project |📤 Pushed |
-| Day106 | Hypothesis Testing Deep Dive | 📤 Pushed |
-| Day107 | Effect Size + Power |📤 Pushed |
-| Day108 | Week 2 Mini-Project | 📤 Pushed |
-| Day109 | Linear Regression Foundations | 📤 Pushed |
-| Day110 | Train-Test Split + R² + RMSE | 📤 Pushed |
-| Day111 | Feature Selection | 📤 Pushed |
-| Day112 | Overfitting + Regularisation | 📤 Pushed |
-| Day113 | Week 3 Mini-Project | 📤 Pushed |
-| Day114 | Logistic Regression | 📤 Pushed |
+| Day101 | Descriptive Stats + Distributions | — 🔵 |
+| Day102 | T-Tests + Confidence Intervals | — 🔵 |
+| Day103 | Chi-Square + ANOVA | — 🔵 |
+| Day104 | A/B Testing with scipy | — 🔵 |
+| Day105 | Week 1 Mini-Project | — 🔵 |
+| Day106 | Hypothesis Testing Deep Dive | — 🔵 |
+| Day107 | Effect Size + Power | — 🔵 |
+| Day108 | Week 2 Mini-Project | — 🔵 |
+| Day109 | Linear Regression Foundations | — 🔵 |
+| Day110 | Train-Test Split + R² + RMSE | — 🔵 |
+| Day111 | Feature Selection | — 🔵 |
+| Day112 | Overfitting + Regularisation | — 🔵 |
+| Day113 | Week 3 Mini-Project | — 🔵 |
+| Day114 | Logistic Regression | — 🔵 |
 | Day115 | Decision Tree | — 🔵 |
 | Day116 | Random Forest | — 🔵 |
 | Day117 | Model Comparison | — 🔵 |
@@ -89,4 +89,4 @@ Month6/
 
 ---
 
-*Auto-synced via watchdog · Last updated: 20 May 2026 12:06*
+*Auto-synced via watchdog · Last updated: 21 May 2026 15:37*
