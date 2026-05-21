@@ -1,92 +1,24 @@
-# Month 6 — Statistics + Machine Learning Portfolio
-**Deepanshu Garg | [@deepanshu0110](https://github.com/deepanshu0110)**
+# Month 2 SQL Portfolio � Days 17-31
+**Deepanshu | deepanshu0110**
 
-> 31-day structured programme: descriptive statistics, probability distributions,
-> hypothesis testing, A/B testing, linear + logistic regression, tree-based models,
-> scikit-learn pipelines, model evaluation, and domain niche (e-commerce analytics).
-
----
-
-## Progress
-
-| Metric | Value |
-|--------|-------|
-| Days Completed | 0 / 31 |
-| Days In Progress | 31 |
-| Month 5 Capstone | 120/120 ✅ (UrbanNest India — best score in programme) |
-| Upwork Status | Active — bids submitted Month 5 W4 |
-| IELTS Target | Jun–Aug 2026, score 6.5+ |
-| Netherlands MSc | TU/e DSAI (first choice), Sep 2027 intake |
-
----
-
-## Month 6 Scorecard
+15 structured Excel workbooks covering SQL from fundamentals to advanced.
 
 | Day | Topic | Score |
 |-----|-------|-------|
-| Day101 | Descriptive Stats + Distributions | — 🔵 |
-| Day102 | T-Tests + Confidence Intervals | — 🔵 |
-| Day103 | Chi-Square + ANOVA | — 🔵 |
-| Day104 | A/B Testing with scipy | — 🔵 |
-| Day105 | Week 1 Mini-Project | — 🔵 |
-| Day106 | Hypothesis Testing Deep Dive | — 🔵 |
-| Day107 | Effect Size + Power | — 🔵 |
-| Day108 | Week 2 Mini-Project | — 🔵 |
-| Day109 | Linear Regression Foundations | — 🔵 |
-| Day110 | Train-Test Split + R² + RMSE | — 🔵 |
-| Day111 | Feature Selection | — 🔵 |
-| Day112 | Overfitting + Regularisation | — 🔵 |
-| Day113 | Week 3 Mini-Project | — 🔵 |
-| Day114 | Logistic Regression | — 🔵 |
-| Day115 | Decision Tree | — 🔵 |
-| Day116 | Random Forest | — 🔵 |
-| Day117 | Model Comparison | — 🔵 |
-| Day118 | Week 4 Mini-Project | — 🔵 |
-| Day119 | Confusion Matrix + Precision/Recall | — 🔵 |
-| Day120 | ROC-AUC | — 🔵 |
-| Day121 | Cross-Validation | — 🔵 |
-| Day122 | GridSearchCV | — 🔵 |
-| Day123 | Scikit-learn Pipeline | — 🔵 |
-| Day124 | Week 5 Mini-Project | — 🔵 |
-| Day125 | E-commerce KPIs — CAC + LTV + Churn | — 🔵 |
-| Day126 | Model Explainability Intro | — 🔵 |
-| Day127 | SHAP Values | — 🔵 |
-| Day128 | Domain Niche Deep Dive | — 🔵 |
-| Day129 | Week 6 Mini-Project | — 🔵 |
-| Day130 | Portfolio Polish | — 🔵 |
-| Day131 | Month 6 Capstone — Full ML Pipeline | — 🔵 |
+| Day 17 | SQL Basics � SELECT, WHERE, ORDER BY | Done |
+| Day 18 | WHERE Advanced Filtering | Done |
+| Day 19 | GROUP BY and Aggregates | Done |
+| Day 20 | HAVING Clause | Done |
+| Day 21 | Week 2 Mini-Project | Done |
+| Day 22 | JOINs | Done |
+| Day 23 | Subqueries | Done |
+| Day 24 | CTEs | Done |
+| Day 25 | Week 3 Mini-Project | 95/100 |
+| Day 26 | Window Functions | 80/80 |
+| Day 27 | LAG, LEAD and Running Totals | 78/80 |
+| Day 28 | String + Date + CTE + Window | 85/88 |
+| Day 29 | CASE + Conditional Aggregation | 87/88 |
+| Day 30 | Week 4 Mini-Project | Done |
+| Day 31 | Month 2 Capstone | 119/120 |
 
----
-
-## Tools & Stack
-
-Python · NumPy · Pandas · scipy.stats · scikit-learn · Matplotlib · Seaborn · Streamlit
-
----
-
-## Repo Structure
-
-```
-Month6/
-├── Day101_Statistics_Foundations.ipynb
-├── Day102_T_Tests_Confidence_Intervals.ipynb
-├── ...
-├── Day131_Month6_Capstone.ipynb
-└── auto_sync.py
-```
-
----
-
-## Previous Months
-
-| Month | Repo | Top Score |
-|-------|------|-----------|
-| Month 1 — Excel | [excel-data-analytics](https://github.com/deepanshu0110/excel-data-analytics) | 88/80 |
-| Month 2 — SQL | [Month2-SQL-Portfolio](https://github.com/deepanshu0110/Month2-SQL-Portfolio) | 119/120 |
-| Month 3 — Python/Pandas | [Month3-Python-Portfolio](https://github.com/deepanshu0110/Month3-Python-Portfolio) | 100/100 |
-| Month 4 — Power BI + Tableau | [Month4-PowerBI-Tableau-Portfolio](https://github.com/deepanshu0110/Month4-PowerBI-Tableau-Portfolio) | 110/100 |
-| Month 5 — BI + Upwork | [Month5-BI-Upwork-Portfolio](https://github.com/deepanshu0110/Month5-BI-Upwork-Portfolio) | 120/120 |
-
----
-
-*Auto-synced via watchdog · Last updated: 21 May 2026 15:51*
+**Tools:** SQLite, Excel, SQL
