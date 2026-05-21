@@ -18,7 +18,7 @@ from watchdog.events import FileSystemEventHandler
 WATCH_FOLDER  = "C:/Users/Deepanshu/OneDrive/Desktop/Month6"
 REPO_URL      = "https://github.com/deepanshu0110/Month6-Stats-ML-Portfolio.git"
 BRANCH        = "main"
-TRACKED_EXTS  = {".ipynb", ".py", ".xlsx", ".csv", ".png", ".pdf"}
+TRACKED_EXTS  = {".ipynb", ".py", ".xlsx", ".csv", ".png", ".pdf", '.md'}
 IGNORE_PATTERNS = {"auto_sync", "__pycache__", ".git",
                    ".ipynb_checkpoints", ".DS_Store", "Thumbs.db"}
 BATCH_DELAY   = 3.0   # seconds to wait before committing after last change
