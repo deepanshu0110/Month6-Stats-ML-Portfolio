@@ -12,7 +12,7 @@
 | Metric | Value |
 |--------|-------|
 | Days Completed | 15 / 31 |
-| Days In Progress | 7 |
+| Days In Progress | 16 |
 | Month 5 Capstone | 120/120 ✅ (UrbanNest India — best score in programme) |
 | Upwork Status | Active — bids submitted Month 5 W4 |
 | IELTS Target | Jun–Aug 2026, score 6.5+ |
@@ -39,15 +39,15 @@
 | Day113 | Week 3 Mini-Project | 100/100 + 15★ ✅ |
 | Day114 | Cross-Validation (KFold + StratifiedKFold) | 80/80 + 10★ ✅ |
 | Day115 | Scikit-learn Pipeline API | 80/80 + 10★ ✅ |
-| Day116 | GridSearchCV + Hyperparameter Tuning | 📤 Pushed |
-| Day117 | — | 📤 Pushed |
-| Day118 | — | 📤 Pushed |
-| Day119 | — | 📤 Pushed |
-| Day120 | — | 📤 Pushed |
-| Day121 | — | 📤 Pushed |
-| Day122 | — | 📤 Pushed |
-| Day123 | — | 📤 Pushed |
-| Day124 | — | 📤 Pushed |
+| Day116 | GridSearchCV + Hyperparameter Tuning | — 🔵 |
+| Day117 | — | — 🔵 |
+| Day118 | — | — 🔵 |
+| Day119 | — | — 🔵 |
+| Day120 | — | — 🔵 |
+| Day121 | — | — 🔵 |
+| Day122 | — | — 🔵 |
+| Day123 | — | — 🔵 |
+| Day124 | — | — 🔵 |
 | Day125 | — | — 🔵 |
 | Day126 | — | — 🔵 |
 | Day127 | — | — 🔵 |
@@ -89,4 +89,4 @@ Month6/
 
 ---
 
-*Auto-synced via watchdog · Last updated: 25 May 2026 15:30*
+*Auto-synced via watchdog · Last updated: 26 May 2026 18:34*
