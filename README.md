@@ -12,7 +12,7 @@
 | Metric | Value |
 |--------|-------|
 | Days Completed | 15 / 31 |
-| Days In Progress | 14 |
+| Days In Progress | 13 |
 | Month 5 Capstone | 120/120 ✅ (UrbanNest India — best score in programme) |
 | Upwork Status | Active — bids submitted Month 5 W4 |
 | IELTS Target | Jun–Aug 2026, score 6.5+ |
@@ -50,7 +50,7 @@
 | Day124 | — | — 🔵 |
 | Day125 | — | 📤 Pushed |
 | Day126 | — | 📤 Pushed |
-| Day127 | — | — 🔵 |
+| Day127 | — | 📤 Pushed |
 | Day128 | — | — 🔵 |
 | Day129 | — | — 🔵 |
 | Day130 | — | — 🔵 |
